@@ -1,0 +1,8 @@
+﻿  Stack library.cpp
+E:\Programming\C++ course\Stack library\Stack library\Stack library.cpp(160,22): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++ course\Stack library\Stack library\Stack library.cpp(210,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++ course\Stack library\Stack library\Stack library.cpp(227,19): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\Programming\C++ course\Stack library\Stack library\Stack library.cpp(223): warning C4715: 'is_valid': not all control paths return a value
+E:\Programming\C++ course\Stack library\Stack library\Stack library.cpp(57): warning C4715: 'Stack::pop': not all control paths return a value
+E:\Programming\C++ course\Stack library\Stack library\Stack library.cpp(62): warning C4715: 'Stack::peek': not all control paths return a value
+  Stack library.vcxproj -> E:\Programming\C++ course\Stack library\x64\Debug\Stack library.exe
